@@ -1,0 +1,731 @@
+{
+ "demographics": {
+  "Users": {
+   "geo_locations": {
+    "cities": [],
+    "location_types": [
+     "home"
+    ]
+   },
+   "age_min": 13,
+   "age_max": 65,
+   "genders": [
+    0
+   ],
+   "publisher_platforms": [
+    "facebook"
+   ]
+  },
+  "Males": {
+   "geo_locations": {
+    "cities": [],
+    "location_types": [
+     "home"
+    ]
+   },
+   "age_min": 13,
+   "age_max": 65,
+   "genders": [
+    1
+   ],
+   "publisher_platforms": [
+    "facebook"
+   ]
+  },
+  "Females": {
+   "geo_locations": {
+    "cities": [],
+    "location_types": [
+     "home"
+    ]
+   },
+   "age_min": 13,
+   "age_max": 65,
+   "genders": [
+    2
+   ],
+   "publisher_platforms": [
+    "facebook"
+   ]
+  },
+  "High school grad": {
+   "geo_locations": {
+    "cities": [],
+    "location_types": [
+     "home"
+    ]
+   },
+   "age_min": 13,
+   "age_max": 65,
+   "publisher_platforms": [
+    "facebook"
+   ],
+   "education_statuses": [
+    4
+   ]
+  },
+  "College grad": {
+   "geo_locations": {
+    "cities": [],
+    "location_types": [
+     "home"
+    ]
+   },
+   "age_min": 13,
+   "age_max": 65,
+   "publisher_platforms": [
+    "facebook"
+   ],
+   "education_statuses": [
+    3
+   ]
+  },
+  "Away from hometown": {
+   "geo_locations": {
+    "cities": [],
+    "location_types": [
+     "home"
+    ]
+   },
+   "age_min": 13,
+   "age_max": 65,
+   "publisher_platforms": [
+    "facebook"
+   ],
+   "life_events": [
+    {
+     "name": "Away from hometown",
+     "id": 6003053860372
+    }
+   ]
+  },
+  "Away from family": {
+   "geo_locations": {
+    "cities": [],
+    "location_types": [
+     "home"
+    ]
+   },
+   "age_min": 13,
+   "age_max": 65,
+   "publisher_platforms": [
+    "facebook"
+   ],
+   "life_events": [
+    {
+     "name": "Away from family",
+     "id": 6003053857372
+    }
+   ]
+  },
+  "Recently moved": {
+   "geo_locations": {
+    "cities": [],
+    "location_types": [
+     "home"
+    ]
+   },
+   "age_min": 13,
+   "age_max": 65,
+   "publisher_platforms": [
+    "facebook"
+   ],
+   "life_events": [
+    {
+     "name": "Recently moved",
+     "id": 6003054185372
+    }
+   ]
+  },
+  "Single": {
+   "geo_locations": {
+    "cities": [],
+    "location_types": [
+     "home"
+    ]
+   },
+   "age_min": 13,
+   "age_max": 65,
+   "publisher_platforms": [
+    "facebook"
+   ],
+   "relationship_statuses": [
+    1
+   ]
+  },
+  "Married": {
+   "geo_locations": {
+    "cities": [],
+    "location_types": [
+     "home"
+    ]
+   },
+   "age_min": 13,
+   "age_max": 65,
+   "publisher_platforms": [
+    "facebook"
+   ],
+   "relationship_statuses": [
+    3
+   ]
+  },
+  "Civil union": {
+   "geo_locations": {
+    "cities": [],
+    "location_types": [
+     "home"
+    ]
+   },
+   "age_min": 13,
+   "age_max": 65,
+   "publisher_platforms": [
+    "facebook"
+   ],
+   "relationship_statuses": [
+    7
+   ]
+  },
+  "Engaged": {
+   "geo_locations": {
+    "cities": [],
+    "location_types": [
+     "home"
+    ]
+   },
+   "age_min": 13,
+   "age_max": 65,
+   "publisher_platforms": [
+    "facebook"
+   ],
+   "relationship_statuses": [
+    4
+   ]
+  }
+ },
+ "behaviors": {
+  "iOS": {
+   "geo_locations": {
+    "cities": [],
+    "location_types": [
+     "home"
+    ]
+   },
+   "age_min": 13,
+   "age_max": 65,
+   "publisher_platforms": [
+    "facebook"
+   ],
+   "behaviors": [
+    {
+     "id": 6004384041172,
+     "name": "Facebook access (mobile): Apple (iOS )devices"
+    }
+   ]
+  },
+  "Android": {
+   "geo_locations": {
+    "cities": [],
+    "location_types": [
+     "home"
+    ]
+   },
+   "age_min": 13,
+   "age_max": 65,
+   "publisher_platforms": [
+    "facebook"
+   ],
+   "behaviors": [
+    {
+     "id": 6004386044572,
+     "name": "Facebook access (mobile): Android devices"
+    }
+   ]
+  },
+  "Frequent international travelers": {
+   "geo_locations": {
+    "cities": [],
+    "location_types": [
+     "home"
+    ]
+   },
+   "age_min": 13,
+   "age_max": 65,
+   "publisher_platforms": [
+    "facebook"
+   ],
+   "behaviors": [
+    {
+     "name": "Frequent international travelers",
+     "id": 6022788483583
+    }
+   ]
+  },
+  "Frequent Travelers": {
+   "geo_locations": {
+    "cities": [],
+    "location_types": [
+     "home"
+    ]
+   },
+   "age_min": 13,
+   "age_max": 65,
+   "publisher_platforms": [
+    "facebook"
+   ],
+   "behaviors": [
+    {
+     "name": "Frequent Travelers",
+     "id": 6002714895372
+    }
+   ]
+  },
+  "Returned from travels 1 week ago": {
+   "geo_locations": {
+    "cities": [],
+    "location_types": [
+     "home"
+    ]
+   },
+   "age_min": 13,
+   "age_max": 65,
+   "publisher_platforms": [
+    "facebook"
+   ],
+   "behaviors": [
+    {
+     "name": "Returned from travels 1 week ago",
+     "id": 6008261969983
+    }
+   ]
+  },
+  "Technology early adopters": {
+   "geo_locations": {
+    "cities": [],
+    "location_types": [
+     "home"
+    ]
+   },
+   "age_min": 13,
+   "age_max": 65,
+   "publisher_platforms": [
+    "facebook"
+   ],
+   "behaviors": [
+    {
+     "name": "Technology early adopters",
+     "id": 6003808923172
+    }
+   ]
+  },
+  "2G": {
+   "geo_locations": {
+    "cities": [],
+    "location_types": [
+     "home"
+    ]
+   },
+   "age_min": 13,
+   "age_max": 65,
+   "publisher_platforms": [
+    "facebook"
+   ],
+   "behaviors": [
+    {
+     "name": "Facebook access (network type): 2G",
+     "id": 6017253486583
+    }
+   ]
+  },
+  "3G": {
+   "geo_locations": {
+    "cities": [],
+    "location_types": [
+     "home"
+    ]
+   },
+   "age_min": 13,
+   "age_max": 65,
+   "publisher_platforms": [
+    "facebook"
+   ],
+   "behaviors": [
+    {
+     "name": "Facebook access (network type): 3G",
+     "id": 6017253511583
+    }
+   ]
+  },
+  "4G": {
+   "geo_locations": {
+    "cities": [],
+    "location_types": [
+     "home"
+    ]
+   },
+   "age_min": 13,
+   "age_max": 65,
+   "publisher_platforms": [
+    "facebook"
+   ],
+   "behaviors": [
+    {
+     "name": "Facebook access (network type): 4G",
+     "id": 6017253531383
+    }
+   ]
+  },
+  "WiFi": {
+   "geo_locations": {
+    "cities": [],
+    "location_types": [
+     "home"
+    ]
+   },
+   "age_min": 13,
+   "age_max": 65,
+   "publisher_platforms": [
+    "facebook"
+   ],
+   "behaviors": [
+    {
+     "name": "Facebook access (network type): WiFi",
+     "id": 6015235495383
+    }
+   ]
+  },
+  "Expats": {
+   "geo_locations": {
+    "cities": [],
+    "location_types": [
+     "home"
+    ]
+   },
+   "age_min": 13,
+   "age_max": 65,
+   "publisher_platforms": [
+    "facebook"
+   ],
+   "behaviors": [
+    {
+     "id": 6015559470583,
+     "name": "Lives abroad"
+    }
+   ]
+  }
+ },
+ "interests": {
+  "Gambling": {
+   "geo_locations": {
+    "cities": [],
+    "location_types": [
+     "home"
+    ]
+   },
+   "age_min": 13,
+   "age_max": 65,
+   "publisher_platforms": [
+    "facebook"
+   ],
+   "interests": [
+    {
+     "id": 6003012317397,
+     "name": "Gambling"
+    }
+   ]
+  },
+  "Casino": {
+   "geo_locations": {
+    "cities": [],
+    "location_types": [
+     "home"
+    ]
+   },
+   "age_min": 13,
+   "age_max": 65,
+   "publisher_platforms": [
+    "facebook"
+   ],
+   "interests": [
+    {
+     "id": 6003484127669,
+     "name": "Casino"
+    }
+   ]
+  },
+  "Catholic Church": {
+   "geo_locations": {
+    "cities": [],
+    "location_types": [
+     "home"
+    ]
+   },
+   "age_min": 13,
+   "age_max": 65,
+   "publisher_platforms": [
+    "facebook"
+   ],
+   "interests": [
+    {
+     "id": 6003021658693,
+     "name": "Catholic Church"
+    }
+   ]
+  },
+  "Buddhism": {
+   "geo_locations": {
+    "cities": [],
+    "location_types": [
+     "home"
+    ]
+   },
+   "age_min": 13,
+   "age_max": 65,
+   "publisher_platforms": [
+    "facebook"
+   ],
+   "interests": [
+    {
+     "id": 6003839322452,
+     "name": "Buddhism"
+    }
+   ]
+  },
+  "Atheism": {
+   "geo_locations": {
+    "cities": [],
+    "location_types": [
+     "home"
+    ]
+   },
+   "age_min": 13,
+   "age_max": 65,
+   "publisher_platforms": [
+    "facebook"
+   ],
+   "interests": [
+    {
+     "id": 6003469024347,
+     "name": "Atheism"
+    }
+   ]
+  },
+  "Cooking": {
+   "geo_locations": {
+    "cities": [],
+    "location_types": [
+     "home"
+    ]
+   },
+   "age_min": 13,
+   "age_max": 65,
+   "publisher_platforms": [
+    "facebook"
+   ],
+   "interests": [
+    {
+     "id": 6003659420716,
+     "name": "Cooking"
+    }
+   ]
+  },
+  "Restaurants": {
+   "geo_locations": {
+    "cities": [],
+    "location_types": [
+     "home"
+    ]
+   },
+   "age_min": 13,
+   "age_max": 65,
+   "publisher_platforms": [
+    "facebook"
+   ],
+   "interests": [
+    {
+     "id": 6003436950375,
+     "name": "Restaurants"
+    }
+   ]
+  },
+  "Fast food": {
+   "geo_locations": {
+    "cities": [],
+    "location_types": [
+     "home"
+    ]
+   },
+   "age_min": 13,
+   "age_max": 65,
+   "publisher_platforms": [
+    "facebook"
+   ],
+   "interests": [
+    {
+     "id": 6004037400009,
+     "name": "Fast food"
+    }
+   ]
+  },
+  "LGBT community": {
+   "geo_locations": {
+    "cities": [],
+    "location_types": [
+     "home"
+    ]
+   },
+   "age_min": 13,
+   "age_max": 65,
+   "publisher_platforms": [
+    "facebook"
+   ],
+   "interests": [
+    {
+     "id": 6003315663791,
+     "name": "LGBT community"
+    }
+   ]
+  },
+  "Homosexuality": {
+   "geo_locations": {
+    "cities": [],
+    "location_types": [
+     "home"
+    ]
+   },
+   "age_min": 13,
+   "age_max": 65,
+   "publisher_platforms": [
+    "facebook"
+   ],
+   "interests": [
+    {
+     "id": 6003183538612,
+     "name": "Homosexuality"
+    }
+   ]
+  },
+  "Same-sex marriage": {
+   "geo_locations": {
+    "cities": [],
+    "location_types": [
+     "home"
+    ]
+   },
+   "age_min": 13,
+   "age_max": 65,
+   "publisher_platforms": [
+    "facebook"
+   ],
+   "interests": [
+    {
+     "id": 6003588806273,
+     "name": "Same-sex marriage"
+    }
+   ]
+  },
+  "Fitness and wellness": {
+   "geo_locations": {
+    "cities": [],
+    "location_types": [
+     "home"
+    ]
+   },
+   "age_min": 13,
+   "age_max": 65,
+   "publisher_platforms": [
+    "facebook"
+   ],
+   "interests": [
+    {
+     "id": 6003384248805,
+     "name": "Fitness and wellness"
+    }
+   ]
+  },
+  "Older devices": {
+   "geo_locations": {
+    "cities": [],
+    "location_types": [
+     "home"
+    ]
+   },
+   "age_min": 13,
+   "age_max": 65,
+   "publisher_platforms": [
+    "facebook"
+   ],
+   "behaviors": [
+    {
+     "id": 6004854404172,
+     "name": "Facebook access: older devices and OS"
+    }
+   ]
+  },
+  "Mac": {
+   "geo_locations": {
+    "cities": [],
+    "location_types": [
+     "home"
+    ]
+   },
+   "age_min": 13,
+   "age_max": 65,
+   "publisher_platforms": [
+    "facebook"
+   ],
+   "flexible_spec": [
+    {
+     "behaviors": [
+      {
+       "id": 6003966451572,
+       "name": "Facebook access (OS): Mac OS X"
+      },
+      {
+       "id": 6063268655983,
+       "name": "Facebook access (OS): Mac Sierra"
+      }
+     ]
+    }
+   ]
+  },
+  "Windows": {
+   "geo_locations": {
+    "cities": [],
+    "location_types": [
+     "home"
+    ]
+   },
+   "age_min": 13,
+   "age_max": 65,
+   "publisher_platforms": [
+    "facebook"
+   ],
+   "flexible_spec": [
+    {
+     "behaviors": [
+      {
+       "id": 6003966466972,
+       "name": "Facebook access (OS): Windows XP"
+      },
+      {
+       "id": 6003966450972,
+       "name": "Facebook access (OS): Windows Vista"
+      },
+      {
+       "id": 6003986707172,
+       "name": "Facebook access (OS): Windows 7"
+      },
+      {
+       "id": 6006298077772,
+       "name": "Facebook access (OS): Windows 8"
+      },
+      {
+       "id": 6029587661983,
+       "name": "Facebook access (OS): Windows 10"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}
